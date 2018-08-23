@@ -76,6 +76,8 @@
         $(this).each(function(i,ele){    
             slide(ele,options)
         })
+        // 支持链调用
+        return this;
     }
 
 })(jQuery)

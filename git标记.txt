@@ -2,4 +2,7 @@
 1addde46b9d11016415e73c47d6811306f7d1ca9 (origin/master) 完成
 commit 0a6a5f21f8362a5da8003417c8d7a178d32ee7df 总结：作为封装插件要注意的一些问题
 commit acf407130c4346e75916675f1b5e43313e68083c (HEAD -> master) 运行匿名函数以及对闭包进一步理解
+commit b88decb1f31f221d977a92bbee9b7b959a0055ee (HEAD -> master) 不带参数的轮播插件完成
 
+addde46b9d11016415e73c47d6811306f7d1ca9 (origin/master)  带参数的轮播参数完成
+1addde46b9d11016415e73c47d6811306f7d1ca9 (origin/master)  带参数的轮播参数完成
