@@ -1,0 +1,5 @@
+5203e3f9f7f6f41e8cd096aea9e58b7e2f9fba29   这是第一次初始框架的搭建
+1addde46b9d11016415e73c47d6811306f7d1ca9 (origin/master) 完成
+commit 0a6a5f21f8362a5da8003417c8d7a178d32ee7df 总结：作为封装插件要注意的一些问题
+commit acf407130c4346e75916675f1b5e43313e68083c (HEAD -> master) 运行匿名函数以及对闭包进一步理解
+
